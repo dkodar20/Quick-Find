@@ -1,4 +1,4 @@
-## String Matching using Fast Fourier Transform
+## FindIt
 
 ># ToDo:
 - A better name for the project
