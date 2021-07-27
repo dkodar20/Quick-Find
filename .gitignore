@@ -1,0 +1,3 @@
+# Excluding compiled binary files #
+###################################
+a.out
