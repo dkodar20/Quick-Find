@@ -6,6 +6,7 @@ using namespace std;
 int main() {
 
 	string t = "abcdeabcdef", p = "abcd";
+	cin >> t >> p;
 	cout << "Using fft-search\n";
 	for (auto i: fft_search(t, p))
 		cout << i << " ";
