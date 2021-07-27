@@ -1,6 +1,6 @@
-## FindIt
+# FindIt
 
-># ToDo:
+## ToDo:
 -  [:heavy_check_mark:] A better name for the project 
 -  [:heavy_check_mark:] Implement FFT String Matching in C++ 
 -  [:heavy_check_mark:] Implement KMP String Matching in C++ 
