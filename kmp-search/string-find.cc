@@ -1,4 +1,4 @@
-#include "pf.cc"
+#include "prefixfunction.cc"
 using namespace std;
 
 vector<int> kmp_search(string text, string pattern)
