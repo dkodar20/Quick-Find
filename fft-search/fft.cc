@@ -78,6 +78,5 @@ namespace dft {
 			y[i + n/2] 	=   (y0[i] - w * y1[i]) / (complex)2;
 			w *= mul;
 		}
-
 	});
 }

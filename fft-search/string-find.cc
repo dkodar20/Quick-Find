@@ -25,7 +25,7 @@ vector<int> fft_search(string text, string pattern){
 			p.coeff[i] = 0, wildcards++;
 	}
 
-	Polynomial transform = p * t;
+	Polynomial transform = p * t; 
 
 	vector<int> result;
 

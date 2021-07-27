@@ -3,12 +3,11 @@
 using namespace std;
 
 class Polynomial {
-
+	
 	public:
 	vector<complex<double>> coeff;
 
 	friend Polynomial operator * (Polynomial const &, Polynomial const &);
-
 };
 
 Polynomial operator * (Polynomial const &c1, Polynomial const &c2){
