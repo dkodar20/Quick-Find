@@ -1,4 +1,4 @@
-# FindIt
+# Quick Find
 
 ## ToDo:
 -  [:heavy_check_mark:] A better name for the project 
